@@ -20,7 +20,7 @@ Achieved a 48% upgrade in donor tiers and secured an 80% retention rate through 
 Data Imputation: Successfully cleaned the dataset by filling in missing values using advanced machine learning techniques, resulting in a highly accurate and reliable dataset for further analysis.
 Donor Segmentation: Identified high-potential donors using both K-Means and DBSCAN clustering methods, with a preference for K-Means due to its consistency and interpretability.
 Targeted Outreach: Developed effective outreach strategies that significantly improved donor tier upgrades and retention rates, demonstrating the practical impact of the analysis.
-Conclusion
+## Conclusion
 The analysis provided a robust framework for understanding and addressing donor decline, with a strong focus on actionable insights and strategic recommendations. The combination of advanced data cleaning, precise segmentation, and targeted outreach strategies proved to be highly effective in achieving the project's goals.
 
 ## Repository Contents
